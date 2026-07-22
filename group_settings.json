@@ -1,0 +1,17 @@
+{
+  "120363426062377178@g.us": {
+    "welcomeEnabled": true,
+    "rules": "",
+    "blockAllLinks": true
+  },
+  "120363424850838088@g.us": {
+    "welcomeEnabled": true,
+    "rules": "",
+    "blockAllLinks": true
+  },
+  "120363428629532020@g.us": {
+    "welcomeEnabled": true,
+    "blockAllLinks": true,
+    "rules": ""
+  }
+}
